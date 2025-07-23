@@ -1,6 +1,6 @@
 # 🌱 Crop Advisory System - TEAM(SC1)_2
 
-![Project Banner](https://crop-advisory.netlify.app/) 
+You can chek here : https://crop-advisory.netlify.app/
 
 ## Team Members
 
