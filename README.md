@@ -29,3 +29,18 @@ You can see here : https://crop-advisory.netlify.app/
 [Download Full Slides](/docs/crop-presentation.pptx)
 
 [Download Video Here](https://drive.google.com/file/d/1-CUf2wP3iwMWQxykEF2A3UtTQ7lvvIsY/view?usp=drivesdk)
+
+---
+
+## 🛠️ How to Run the Project Locally
+
+Follow these steps to run the project in your local environment:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Rohitohdar/crop-advisory.git
+cd crop-advisory
+
+npm install
+
+npm run dev
