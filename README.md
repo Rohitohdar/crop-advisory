@@ -27,3 +27,5 @@ You can see here : https://crop-advisory.netlify.app/
 
 ![Key Slides](/slides/crop-pres-1.png)  
 [Download Full Slides](/docs/crop-presentation.pptx)
+
+[Download Video Here](https://drive.google.com/file/d/1-CUf2wP3iwMWQxykEF2A3UtTQ7lvvIsY/view?usp=drivesdk)
