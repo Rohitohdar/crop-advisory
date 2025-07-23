@@ -1,15 +1,15 @@
-# 🌱 Crop Advisory System - TEAM(SC1)_2
+# 🌱 Crop Advisory System - TEAM(SC1)\_2
 
 You can see here : https://crop-advisory.netlify.app/
 
 ## Team Members
 
-| Name                     | Roll No    
-|--------------------------|------------|
-| S. Tanushree Prusty      | 24CSE078   
-| Kanak Sahgal             | 24CSE434   
-| A. Radha Rani Patra      | 24CSE063   
-| Rohit Ohdar              | 24CSE419   
+| Name                | Roll No  |
+| ------------------- | -------- |
+| S. Tanushree Prusty | 24CSE078 |
+| Kanak Sahgal        | 24CSE434 |
+| A. Radha Rani Patra | 24CSE063 |
+| Rohit Ohdar         | 24CSE419 |
 
 ## 📌 Project Overview
 
@@ -23,6 +23,7 @@ You can see here : https://crop-advisory.netlify.app/
 - 💡 Fertilizer advisory for soil health improvement
 - 📱 User-friendly interface (web/mobile application)
 
-## 🎤 Presentation  
-![Key Slides](/slides/1.png)  
-[Download Full Slides](/docs/crop-advisory-system.pptx)  
+## 🎤 Presentation
+
+![Key Slides](/slides/crop-pres-1.png)  
+[Download Full Slides](/docs/crop-advisory-system.pptx)
