@@ -1,4 +1,4 @@
-<img width="1170" height="780" alt="image" src="https://github.com/user-attachments/assets/79b3dcf3-9d92-4ba0-abcc-0d993522cf77" /># 🌱 Crop Advisory System - TEAM(SC1)_2
+# 🌱 Crop Advisory System - TEAM(SC1)_2
 
 You can see here : https://crop-advisory.netlify.app/
 
@@ -23,5 +23,6 @@ You can see here : https://crop-advisory.netlify.app/
 - 💡 Fertilizer advisory for soil health improvement
 - 📱 User-friendly interface (web/mobile application)
 
-
-<img width="1170" height="780" alt="image" src="https://github.com/user-attachments/assets/9cbe5cad-196d-41cb-8040-75c022591241" />
+## 🎤 Presentation  
+![Key Slides](/slides/1.png)  
+[Download Full Slides](/docs/crop-advisory-system.pptx)  
