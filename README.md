@@ -26,4 +26,4 @@ You can see here : https://crop-advisory.netlify.app/
 ## 🎤 Presentation
 
 ![Key Slides](/slides/crop-pres-1.png)  
-[Download Full Slides](/docs/crop-advisory-system.pptx)
+[Download Full Slides](/docs/crop-presentation.pptx)
