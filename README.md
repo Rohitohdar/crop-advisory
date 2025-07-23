@@ -2,7 +2,7 @@
 
 ![Project Banner](https://crop-advisory.netlify.app/) 
 
-## 👥 Team Members
+## Team Members
 
 | Name                     | Roll No    
 |--------------------------|------------|
